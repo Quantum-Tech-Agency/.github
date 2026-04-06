@@ -1,12 +1,13 @@
 # Quantum Tech Agency 🚀
 
-We are a Software, AI & Media Agency based in Iraq 🇮🇶
+We are a Software, AI & Media Agency based in Erbil, Iraq 🇮🇶
 
 ## 💻 What we do
 - Web & Mobile Development
 - AI Solutions
 - SaaS Platforms
 - UI/UX Design
+- Media Production
 
 ## 🛠 Tech Stack
 - React.js, Next.js, Typescript
