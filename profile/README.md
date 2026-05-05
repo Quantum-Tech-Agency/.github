@@ -2,12 +2,12 @@
 
 We are a Software, AI & Media Agency based in Erbil, Iraq
 
-## 💻 What we do
+## What we do
 - Web & Mobile Development
 - AI Solutions
 - SaaS Platforms
 - UI/UX Design
 - Media Production
 
-## 🌐 Website
+## Website
 https://quantumkrd.com
